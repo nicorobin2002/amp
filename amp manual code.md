@@ -940,3 +940,9 @@ App listens for changes in Airplane Mode
 Displays a toast notification when triggered
 Clean UI with an icon and label
 🔔 Note: Android Services like IntentService, onStartCommand() and notifications are listed in the manual but not demonstrated with code. Want me to add a sample notification or background service code here too?
+
+prompt:
+
+listen I have a pdf manual of Advanced mobile programming of my sem 6 bsc.it, which consist of steps and images that consist of code to perform a practical and there are total of 10 practicals
+I want you to provide me a proper step to step including extracted code from the images , so that I can perform the practical the seamlessly
+
